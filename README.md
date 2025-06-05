@@ -26,7 +26,6 @@ Le serveur utilise une architecture modulaire avec :
   "mcpServers": {
     "vlm-server": {
       "command": "/path/to/vlm-server/start_vlm_server.sh"
-      }
     }
   }
 }
